@@ -1,0 +1,68 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio
+.vs/
+*.rsuser
+*.userprefs
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+## NuGet
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+## Test Results
+[Tt]est[Rr]esult*/
+*.trx
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Environment files
+*.env
+.env.local
+.env.*.local
+
+## Logs
+logs/
+*.log
+
+## Frontend
+node_modules/
+dist/
+.vite/
+*.local
+
+## Database
+*.db
+*.sqlite
+*.sqlite3
+
+## Docker
+docker-compose.override.yml
+
+## Temporary files
+temp-hash/
+*.tmp
+*.temp
+
+skill.md
