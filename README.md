@@ -356,6 +356,14 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 Este projeto foi desenvolvido para fins de portfólio e demonstração de habilidades.
 
+## 🎯 Business Value & Industrial Focus
+This isn't just a "bug tracker". It's a tool designed to solve the communication gap in technical environments (inspired by my experience at Efacec). 
+
+**Key Business Benefits:**
+- **Zero Missing Data:** Mandatory attachments and structured logs ensure no information is lost between shifts.
+- **Accountability:** Role-based flow ensures every change is signed by a responsible user.
+- **Process Optimization:** Built-in metrics for "Resolution Time" allow managers to identify bottlenecks in the operation.
+- 
 ---
 
 **Desenvolvido com ❤️ para demonstrar competências em Full-Stack Development**
